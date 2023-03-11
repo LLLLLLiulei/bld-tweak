@@ -1,0 +1,9 @@
+Package: cn.var123.bldhelper
+Name: bldhelper
+Depends: mobilesubstrate
+Version: 1.7.8
+Architecture: iphoneos-arm
+Description: bldhelper
+Maintainer: ll
+Author: ll
+Section: Tweaks
